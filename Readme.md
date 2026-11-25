@@ -1,3 +1,21 @@
+## PROJECTS
+
+### Ruksh.co.in | Full-Stack E-Commerce Platform
+*Next.js, TypeScript, React, Supabase, PostgreSQL*
+
+- Developed a full-stack e-commerce platform with product browsing, cart, checkout and order management.
+- Implemented authentication, authorization and database-driven business workflows.
+- Integrated APIs, payment functionality and responsive UI components.
+- Managed deployment, debugging and ongoing feature development.
+
+### Ruksh Gadgets Android App | Native Mobile Application
+*React Native, Expo, TypeScript, REST APIs*
+- Developing a standalone Android shopping application integrated with the existing e-commerce backend.
+- Implementing mobile authentication, product browsing, cart and order management.
+- Building mobile UI, navigation and state management for a native user experience.
+- Testing and preparing Android builds using Expo development tools.
+
+
 # Ruksh AI
 
 **An AI-powered photo creation and personalization platform.**
